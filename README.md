@@ -3,7 +3,7 @@
 Look into if þine Anglisc is good Anglisc!
 
 ### Foreneeds
-To run þis softƿare, geƿ ƿill need `spaCy`. Head ofer to
+To run þis softƿare, þu ƿilt need `spaCy`. Head ofer to
 [þis](https://spacy.io/usage) ƿebstead to get þe biddings needed to duneload it.
 
 I ƿould put in a good ƿord for þe dead-on pack (`en_core_ƿeb_trf`) ofer þe digted
@@ -22,7 +22,7 @@ Check if your Anglish is valid Anglish!
 To run this program, you will need `spaCy`. Head over to
 [this](https://spacy.io/usage) website to get the commands needed to download it.
 
-I would recommend þe accuracy pack (`en_core_ƿeb_trf`) over the efficiency
+I would recommend the accuracy pack (`en_core_ƿeb_trf`) over the efficiency
 one (`en_core_ƿeb_sm`).
 
 ### Running the program

@@ -29,4 +29,4 @@ one (`en_core_ƿeb_sm`).
 When you are ready to run this software, simply run `checker.py`.
 
 ### Updating the word list
-If you need to update the word list for whatever reason, append any more words to `anglish_ƿords.txt`, and then run `python serializer.py`
+If you need to update the word list for whatever reason, append any more words to `anglish_words.txt`, and then run `python serializer.py`

@@ -13,7 +13,7 @@ one (`en_core_ƿeb_sm`).
 Hƿen þu art ready to run þis softƿare, only run `checker.py`.
 
 ### Anƿardening þe ƿord list
-If þu needest to anƿarden þe ƿord list for hƿatefer grounds, heap on any more ƿords to `anglish_ƿords.txt`, and þen run `python serializer.py`
+If þu needest to anƿarden þe ƿord list for hƿatefer grounds, heap on any more ƿords to `anglish_words.txt`, and þen run `python serializer.py`
 
 ## English Instructions
 Check if your Anglish is valid Anglish!
